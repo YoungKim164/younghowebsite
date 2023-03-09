@@ -1,0 +1,14 @@
+{
+  "hash": "efc0ff562c883a3e0b5983f2e4368f6c",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout Youngho Kim\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
