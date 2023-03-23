@@ -1,5 +1,21 @@
 ---
-title: "Contact"
+title: "Bio"
 ---
 
-This is Contact
+Youngho Kim
+
+Emerging System Manager. Critical thinker. Problem solver. Experienced in system implementation, integration, and management. Capable of effective communication from field practice.
+
+Education
+
+2017-2019 Applied Science Engineering CS concentration, at MSU
+
+2022-2024 Bachelor of Information, at UofT
+
+Work Experience
+
+2017-2019 Technical Coach, Sexton Redbot
+
+2019 Summer Assist Designer, SAM company
+
+2019-2021 IT specialist, ROKN

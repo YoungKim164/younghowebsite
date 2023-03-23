@@ -10,7 +10,6 @@ website:
         text: Home
       - about.qmd
       - contact.qmd
-      - CV (2).pdf
 
 format:
   html:
