@@ -10,6 +10,11 @@ website:
         text: Home
       - bio.qmd
       - project.qmd
+      - text: CV
+        url: /CV.pdf
+      - resume: Resume
+        url: /Bio-resume.pdf
+
 
 format:
   html:

@@ -19,5 +19,19 @@
     "title": "Welcom",
     "section": "",
     "text": "This is a personal website for Youngho Kim"
+  },
+  {
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "Bio",
+    "section": "",
+    "text": "Youngho Kim\nEmerging System Manager. Critical thinker. Problem solver. Experienced in system implementation, integration, and management. Capable of effective communication from field practice.\nEducation\n2017-2019 Applied Science Engineering CS concentration, at MSU\n2022-2024 Bachelor of Information, at UofT\nWork Experience\n2017-2019 Technical Coach, Sexton Redbot\n2019 Summer Assist Designer, SAM company\n2019-2021 IT specialist, ROKN"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Porject",
+    "section": "",
+    "text": "Class Projects\nDesign\nInteractive Web Design (Figma)\nhttps://www.figma.com/file/hQCcqNrk9R2BweDxmU0soq/Untitled?node-id=0%3A1&t=bPvpr4BO0hj5Ce0M-1\nPaper\nThe Post-2007 Declining U.S. Birth Rates imply Significant Societal Shift in the U.S.\nhttps://github.com/UtopianYoungChung/Paper2"
   }
 ]
